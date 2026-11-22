@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Sergio 👋</h1>
+<h1 align="center">Hi, I'm Sergio 👋</h1>
 
 <p align="center">
   <b>Full Stack Developer</b> · Android & Cloud · DevOps<br>
@@ -12,10 +12,10 @@
 
 ---
 
-Soy un desarrollador curioso al que le encanta crear cosas. Siempre estoy probando tecnologías nuevas y aprendiendo algo por el camino.
+I'm a curious developer who loves building things. I'm always trying out new technologies and learning something along the way.
 
-- ☁️ Ahora mismo: infraestructura como código y CI/CD en **Azure** y **AWS**
-- 🖥️ Tengo un home server con Ubuntu Server para trastear
+- ☁️ Currently: infrastructure as code and CI/CD on **Azure** and **AWS**
+- 🖥️ Running a home server on Ubuntu Server to tinker with
 
 ### 🛠️ Stack
 
